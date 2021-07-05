@@ -6,4 +6,4 @@ Yearly Change cells will be highlight Green for positive change, and Red for neg
 
 Tickers and values for the greatest percent increase, greatest percent decrease, and greatest total volume will be output.
 
-The script will run for all worksheets in the workbook.
+The script will run on all worksheets in the workbook.
